@@ -1,28 +1,6 @@
 ### Description
 
-Interchangeable sensor network boards with wifi base
-
-### Features
-
-- Wifi base powered by ESP8266 12/12E Processor
-- Sensor Board
-- External sensor board
-- 14 Segment board
-- 7 Segment board
-- Capacative button board
-- Slider board
-- Dial board
-- Neopixel LED board
-- Relay board
-- Matrix board
-- Prototype board
-- Prototype board (i2c)
-- RF transmitter/BLE board
-- Mini USB power connector
-- FTDI programming port
-- Surface mount
-
-### License
+'Build' is an interchangeable set of input/output boards that let you create a complex system of sensors, buttons, actuators, transmitters and screens. Build starts with a wifi base and adds 13 different individually addressed i/o boards.  All boards clip together using a standard 6 pin header, so expanding the system quick and easy. 
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
